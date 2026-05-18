@@ -1,1 +1,2 @@
 # Ecommerce-Data-Visualization
+This project presents an interactive ecommerce dashboard built using data analysis and visualization tools to uncover valuable business insights. The dashboard analyzes sales performance, customer behavior, revenue trends, product categories, and overall business growth through interactive charts, KPIs, and filters. The project helps in understanding ecommerce data, identifying trends, and making data-driven decisions for better business performance.
